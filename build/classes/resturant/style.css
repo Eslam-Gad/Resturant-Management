@@ -1,0 +1,81 @@
+#LoginLayout{
+
+    -fx-background-color:#333;
+}
+#LoginLayout TextField{
+
+    -fx-background-radius:10px;
+}
+#LoginLayout PasswordField{
+
+    -fx-background-radius:10px;
+}
+
+/* Main stage... */
+
+#Rightside{
+    -fx-background-color:#333;
+}
+
+#Rightside Button{
+    -fx-background-radius:50px;
+}
+
+#Statistic{
+    -fx-background-color:rgba(0,255,204,0.4);
+
+}
+#Statistic TextField{
+    -fx-text-fill:red;
+}
+#Meals{
+    -fx-background-color:#F9E0D3;
+}
+#Dranks{
+    -fx-background-color:#F9fbD3;
+}
+#pane4{
+    -fx-background-color:#d6cbD3;
+}
+#cM .text{
+    -fx-fill: rgb(250.0, 50.0, 200.0);
+}
+#cM2 .text{
+    -fx-fill: rgb(250.0, 50.0, 200.0);
+}
+#NMC{
+    -fx-alignment: center;
+}
+#nCM{
+    -fx-alignment: center;
+}
+
+#TCM{
+    -fx-alignment: center;
+}#CCM{
+    -fx-alignment: center;
+}
+.CD{
+    -fx-alignment: center;
+}
+#PANE3{
+    -fx-background-color:#E5DAC9;
+}
+
+#addMn{
+    -fx-background-color:rgb(120 , 220 , 20 );
+    -fx-text-fill: white;
+}
+.centerColumn{
+    -fx-alignment: center;
+}
+#spin{
+    -fx-alignment: center;
+}
+#char{
+  -fx-background-color:rgb(250 , 250 , 250 );
+}
+
+#pane55{
+      -fx-background-color:rgb(150 , 120 , 130 );
+}
